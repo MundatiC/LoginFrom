@@ -1,0 +1,12 @@
+.theme-toggle {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    color: #000;
+  }
+  
+  .theme-toggle:hover {
+    color: #999;
+  }
+  

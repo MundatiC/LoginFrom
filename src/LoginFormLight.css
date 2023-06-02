@@ -1,0 +1,43 @@
+.light body{
+  background-color: #ffff;
+}
+.light.form-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .light.form-container label,
+  .light.form-container input {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .light.form-container input[type="email"],
+  .light.form-container input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .light.form-container p {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  .light.form-container button[type="submit"] {
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .light.form-container button[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
