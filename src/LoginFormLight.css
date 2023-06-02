@@ -5,8 +5,9 @@
     width: 300px;
     margin: 0 auto;
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 1px solid hsl(0, 0%, 80%);
     border-radius: 5px;
+    background-color: #ccc;
   }
   
   .light.form-container label,
@@ -21,6 +22,7 @@
     padding: 8px;
     border: 1px solid #ccc;
     border-radius: 4px;
+    
   }
   
   .light.form-container p {

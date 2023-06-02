@@ -22,6 +22,7 @@
   padding: 8px;
   border: 1px solid #ccc;
   border-radius: 4px;
+  background-color: #ccc;
 }
 
 .dark.form-container p {
@@ -31,7 +32,7 @@
 
 .dark.form-container button[type="submit"] {
   padding: 8px 16px;
-  background-color: #4caf50;
+  background-color: #063008;
   color: white;
   border: none;
   border-radius: 4px;
@@ -39,5 +40,5 @@
 }
 
 .dark.form-container button[type="submit"]:hover {
-  background-color: #45a049;
+  background-color: #234925;
 }
